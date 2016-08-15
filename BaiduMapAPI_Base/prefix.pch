@@ -1,0 +1,10 @@
+//
+//  prefix.pch
+//  test
+//
+//  Created by  Channing Guo on 16/7/18.
+//  Copyright © 2016年 RekTec. All rights reserved.
+//
+
+
+#import <Foundation/Foundation.h>
